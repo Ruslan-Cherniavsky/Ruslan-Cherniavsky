@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ruslan-Cherniavsky
+- 👋 Hi, I’m Ruslan Cherniavsky
 - 👀 I’m Fullstack developer 
 - 📫 How to reach me ------> Nalsurion@gmail.com
-- - SKILLS ------> Javascript / HTML / CSS / Typescript / Node.js / React / MongoDB / Angular / MySQL / 
+- ✨ SKILLS ------> Javascript / HTML / CSS / Typescript / Node.js / React / MongoDB / Angular / MySQL / 
 
 
 <!---
