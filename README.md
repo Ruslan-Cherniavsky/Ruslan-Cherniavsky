@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ruslan-Cherniavsky
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning mean stack
-- 📫 How to reach me Nalsurion@gmail.com
+- 👀 I’m Fullstack developer 
+- 📫 How to reach me ------> Nalsurion@gmail.com
 
 <!---
 Ruslan-Cherniavsky/Ruslan-Cherniavsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
